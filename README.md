@@ -1,6 +1,7 @@
 # Foundify-Project
 
-=>This repository hosts the codebase for a comprehensive Lost and Found Management System tailored for college premises. =>The primary objective is to facilitate a seamless process for individuals to report lost or found items, fostering a collaborative and community-driven approach to reuniting people with their valuable possessions.
+=>This repository hosts the codebase for a comprehensive Lost and Found Management System tailored for college premises. 
+=>The primary objective is to facilitate a seamless process for individuals to report lost or found items, fostering a collaborative and community-driven approach to reuniting people with their valuable possessions.
 
 Features
 
